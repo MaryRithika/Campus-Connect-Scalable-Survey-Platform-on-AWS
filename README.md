@@ -1,4 +1,4 @@
-#Campus Connect: Scalable Survey Platform on AWS
+##Campus Connect: Scalable Survey Platform on AWS
 
 ## Project Overview
 This project is a microservices-based web application built with Spring Boot to manage student survey data. It uses Amazon RDS for data storage and integrates with Docker, Kubernetes, Jenkins, and Rancher for containerization and deployment in a CI/CD pipeline.
